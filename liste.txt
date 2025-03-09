@@ -1,4 +1,4 @@
-1. Mesajlaşma
+1. Görüntülü arama
 2. Sesli arama
 3. Dosya paylaşımı
 4. Durum paylaşma
