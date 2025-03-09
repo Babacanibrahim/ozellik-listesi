@@ -2,3 +2,4 @@
 2. Sesli arama
 3. Görüntülü arama
 4. Dosya paylaşımı
+5. Durum paylaşma
